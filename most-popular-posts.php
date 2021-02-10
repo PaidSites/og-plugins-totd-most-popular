@@ -1,12 +1,15 @@
 <?php
 /*
 	Plugin Name: WP Most Popular
-	Plugin URI: https://wpgeeks.com/product/most-popular-posts/
-	Description: Flexible plugin to show your most popular posts based on views
+	Plugin URI: https://github.com/PaidSites/totd-most-popular-plugin
+	Description: show your most popular posts based on views
 	Version: 0.3.1
 	Author: WP Geeks
-	Author URI: http://wpgeeks.com
 	License: GPL2
+	GitHub Plugin URI: https://github.com/PaidSites/totd-most-popular-plugin
+*/
+
+/*
 
 	Copyright 2011 WP Geeks (email: support@wpgeeks.com)
 
