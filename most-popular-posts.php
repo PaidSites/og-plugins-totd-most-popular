@@ -6,6 +6,7 @@
 	Version: 0.3.1
 	Author: WP Geeks
 	License: GPL2
+	Text Domain: totd-most-popular-plugin
 	GitHub Plugin URI: https://github.com/PaidSites/totd-most-popular-plugin
 */
 
