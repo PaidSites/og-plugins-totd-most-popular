@@ -1,14 +1,13 @@
 <?php
-/*
-	Plugin Name: WP Most Popular
-	Plugin URI: https://github.com/PaidSites/totd-most-popular-plugin
-	Description: show your most popular posts based on views
-	Version: 0.3.1
-	Author: WP Geeks
-	License: GPL2
-	Text Domain: totd-most-popular-plugin
-	GitHub Plugin URI: https://github.com/PaidSites/totd-most-popular-plugin
-*/
+/**
+ * Plugin Name:       WP Most Popular
+ * Plugin URI:        https://github.com/PaidSites/totd-most-popular-plugin
+ * Description:       show your most popular posts based on views
+ * Version:           0.3.2
+ * Author:            WP Geeks
+ * Text Domain:       totd-most-popular-plugin
+ * GitHub Plugin URI: https://github.com/PaidSites/totd-most-popular-plugin
+ */
 
 /*
 
