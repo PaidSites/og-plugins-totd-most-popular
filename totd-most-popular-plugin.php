@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       WP Most Popular
+ * Plugin Name:       TOTD WP Most Popular
  * Plugin URI:        https://github.com/PaidSites/totd-most-popular-plugin
  * Description:       show your most popular posts based on views
  * Version:           0.3.2
